@@ -1,8 +1,8 @@
 # 😄 HighHappy 😄
 
-![HighHappy](https://i.ibb.co/z6Vq7mM/High-Happy.png)
-
 HighHappy is a sophisticated and powerful virus designed for educational and research purposes. This README file explains the functionality and components of the code in detail. **Warning: Misuse of this software may result in severe consequences. ⚠️**
+
+![HighHappy](https://i.ibb.co/z6Vq7mM/High-Happy.png)
 
 ---
 

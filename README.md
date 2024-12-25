@@ -74,7 +74,7 @@ The author and contributors are not responsible for any misuse or damage caused 
 ### Project Metadata
 
 - **Project Name:** HighHappy
-- **Author:** ABOLHB
+- **Coded By:** ABOLHB
 - **Group:** FREEMASONRY
 - **Year:** 2024
 - **License:** © 2024 ABOLHB - FREEMASONRY

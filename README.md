@@ -1,4 +1,4 @@
-# HighHappy 🎉
+# HighHappy 😄
 
 ![HighHappy](https://i.ibb.co/z6Vq7mM/High-Happy.png)
 
